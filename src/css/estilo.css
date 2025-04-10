@@ -13,7 +13,7 @@ body{
     min-height: 100vh;
 }
 header{
-    background: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
     color: #fff;
     padding: 20px;
 }
@@ -24,7 +24,7 @@ header nav ul{
     display: flex;
 }
 header nav ul li a{
-    color: rgb(255, 255, 255);
+    color: #ffffff;
    text-transform: uppercase;
    padding: 5px 10px;
 }
@@ -47,7 +47,7 @@ main{
     border: 1px solid #ddd;
     background-image: linear-gradient(#021b2b,#784ba0,#6a1d49);
     color: #fff;
-    border-radius: 30px ;   
+    border-radius: 30px ;   #021b2b
 }
 .produto img{
     max-width: 100%;
